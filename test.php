@@ -1,3 +1,3 @@
-<?php 
-	phpinfo();
- ?>
+<?php
+	echo "test";
+	//deploy test
